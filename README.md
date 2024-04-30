@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristian Chappell</h1>
 <h3 align="center">A passionate software developer from Georgia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kristianchappell" alt="kristianchappell" /></a> </p>
-
 - 📫 How to reach me **kchappell8@gatech.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X4kAQxpzPaRzwFV1KADUohhRB1Vskpeb/view?usp=sharing](https://drive.google.com/file/d/1X4kAQxpzPaRzwFV1KADUohhRB1Vskpeb/view?usp=sharing)
